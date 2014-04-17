@@ -1,0 +1,1 @@
+DDServiceMonitor.exe -sW3SVC -cstop -qtrue
